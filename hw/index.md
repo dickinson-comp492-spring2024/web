@@ -1,14 +1,7 @@
 # Assignments for COMP492
 
 
-
-
-<font color="red">**[End of content added 4/20/2023]**</font>
-
-------
-
-
-# Overview of the capstone project
+## Overview of the capstone project
 
 The most significant component of COMP492 is the continuation of the
 capstone project started in COMP491. As is usual for
