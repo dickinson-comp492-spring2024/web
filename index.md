@@ -4,7 +4,7 @@
 <!-- [high-resolution version](images/sensem-teaparty-2023.jpg) -->
 
 
-* [Syllabus](syllabus-1-23-2023.docx)
+* [Syllabus](syllabus-1-8-2024.docx)
 * [Overview Schedule](schedule-1-7-2024.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -->
 * [Detailed schedule](resources)
 * [Graded assignments](hw)
