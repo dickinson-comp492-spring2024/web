@@ -5,7 +5,7 @@
 
 
 * [Syllabus](syllabus-1-23-2023.docx)
-* [Overview Schedule](schedule-4-10-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -->
+* [Overview Schedule](schedule-1-7-2024.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/10/2023</font> -->
 * [Detailed schedule](resources)
 * [Graded assignments](hw)
 * [Readings](readings.md)
@@ -18,4 +18,4 @@
 
 
 ----
-Last modified: Thu Jan 04 18:31:47 UTC 2024 by jmac.
+Last modified: Mon Jan 08 02:32:55 UTC 2024 by jmac.
