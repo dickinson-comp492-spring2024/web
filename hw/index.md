@@ -55,7 +55,7 @@ spending time on a BSF component.
 
 It is important to have reached a
 satisfactory level of standard contributions to your capstone project
-before beginning on the BSF. You must consult with the instructor to
+before beginning on the BSF. In most cases, it is not possible to begin the BSF until the second half of the semester, after spring break. You must consult with the instructor to
 determine whether your team can begin on a BSF. Once you have
 permission to begin the BSF component, the instructor may also require
 you to continue work on standard contributions. Please communicate
