@@ -9,7 +9,7 @@
 * [Detailed schedule](resources)
 * [Graded assignments](hw)
 * [Readings](readings.md)
-* [Moodle](https://lms.dickinson.edu/course/view.php?id=50061)
+* [Moodle](https://lms.dickinson.edu/course/view.php?id=55453)
 <!-- * [WiD repos](wid-repos.md) -->
 * [Acknowledgment](acknowledgment.md)
 
