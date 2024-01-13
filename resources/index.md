@@ -1,6 +1,6 @@
 # Detailed schedule
 
-<! - - 
+<!--
 
 
 ## Class 28, Tuesday 5/2/2023
