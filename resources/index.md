@@ -157,32 +157,32 @@ capstone lab day
   [Readings webpage](../readings.md) for required reading.
 
 
-## Class 8, Friday 2/24/2023
+## Class 8, Friday 2/16/2023
 
 capstone lab day
 
 
-## Class 7, Tuesday 2/21/2023
+## Class 7, Tuesday 2/13/2023
 
 * Discussion of the digital divide
 
-## Class 6, Friday 2/17/2023
+## Class 6, Friday 2/9/2023
 
 capstone lab day
 
 
 
-## Class 5, Tuesday 1/31/2023
+## Class 5, Tuesday 2/6/2023
 
 * Discussion of automation and globalization
 
 
-## Class 4, Friday 2/3/2023
+## Class 4, Friday 2/2/2023
 
 capstone lab day
 
 
-## Class 3, Tuesday 1/31/2023
+## Class 3, Tuesday 1/30/2023
 
 
 * Discussion of professional ethics. Resources:
@@ -190,14 +190,14 @@ capstone lab day
   - The latest [ACM code of ethics](https://www.acm.org/code-of-ethics)
 
 
-## Class 2, Friday 1/27/2023
+## Class 2, Friday 1/26/2023
 
 * Discussion of ethical theories
 * handout: [ethical-theories-handout.pptx](class02/ethical-theories-handout.pptx)
 
 -->
 
-## Class 1, Tuesday 1/24/2023
+## Class 1, Tuesday 1/23/2023
 
 * Overview of the course. 
 * capstone lab day
