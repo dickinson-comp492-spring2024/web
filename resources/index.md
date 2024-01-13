@@ -1,5 +1,8 @@
 # Detailed schedule
 
+<!--
+
+
 ## Class 28, Tuesday 5/2/2023
 
 * Informal discussion: *Big ideas in computing*
@@ -51,7 +54,7 @@ week takes the place of this class meeting.
        e.g. Windows, MacOS, Linux?
     4. What would it take for you to actually trust a computer system?
 
-* Remaining time for project work
+* Remaining time for capstone lab
 
 ## Class 23, Tuesday 4/18/2023
  
@@ -59,7 +62,7 @@ week takes the place of this class meeting.
   - optional reading: [Issue
     183](https://www.deeplearning.ai/the-batch/issue-183/) of The
     Batch, by Andrew Ng and DeepLearning.AI, February 8, 2023.
-* Remaining time for project work
+* Remaining time for capstone lab
 
  
 ## Class 22, Friday 4/14/2023
@@ -71,11 +74,11 @@ No class -- instructor away at a conference.
 * Informal discussion: portrayal of computation in movies, TV, and literature
   - No preparation required.
   - If you get a chance, try to think of a few examples for discussion.
-* Remaining time for project work
+* Remaining time for capstone lab
 
 ## Class 20, Friday 4/7/2023
 
-Poster peer review + project work day
+Poster peer review + capstone lab day
 
 Posters for review:
 * [Oppia](class20/Oppia_CESPosterDraft.pdf)
@@ -93,7 +96,7 @@ Posters for review:
 
 ## Class 18, Friday 3/31/2023
 
-Poster abstract peer review + project work day
+Poster abstract peer review + capstone lab day
 
 ## Class 17, Tuesday 3/28/2023
 
@@ -108,7 +111,7 @@ Presentation order, courtesy of our friends at [random.org](https://www.random.o
 
 ## Class 16, Friday 3/24/2023
 
-project work day
+capstone lab day
 
 
 
@@ -123,7 +126,7 @@ project work day
 
 ## Class 14, Friday 3/10/2023
 
-project work day
+capstone lab day
 
 
 
@@ -134,7 +137,7 @@ project work day
 
 ## Class 12, Friday 3/3/2023
 
-project work day
+capstone lab day
 
 
 
@@ -145,7 +148,7 @@ project work day
 
 ## Class 10, Friday 2/24/2023
 
-project work day
+capstone lab day
 
 ## Class 9, Tuesday 2/21/2023
 
@@ -156,7 +159,7 @@ project work day
 
 ## Class 8, Friday 2/24/2023
 
-project work day
+capstone lab day
 
 
 ## Class 7, Tuesday 2/21/2023
@@ -165,7 +168,7 @@ project work day
 
 ## Class 6, Friday 2/17/2023
 
-project work day
+capstone lab day
 
 
 
@@ -176,12 +179,12 @@ project work day
 
 ## Class 4, Friday 2/3/2023
 
-project work day
+capstone lab day
 
 
 ## Class 3, Tuesday 1/31/2023
 
-* Vote on [future discussion topics](class03/future-discussion-topics.docx)
+
 * Discussion of professional ethics. Resources:
   - Handout with overview of professional ethics: [professional-ethics-summary.pptx](class03/professional-ethics-summary.pptx)
   - The latest [ACM code of ethics](https://www.acm.org/code-of-ethics)
@@ -192,10 +195,12 @@ project work day
 * Discussion of ethical theories
 * handout: [ethical-theories-handout.pptx](class02/ethical-theories-handout.pptx)
 
+-->
+
 ## Class 1, Tuesday 1/24/2023
 
 * Overview of the course. 
-* Project work day
+* capstone lab day
 
 
 ----
