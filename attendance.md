@@ -28,6 +28,6 @@ Attendance is worth 5% of the final grade, computed as follows:
 * Please do not leave the room during class, except for genuine
   emergencies. Repeated violations will result in a reduced attendance
   grade.
-* Please don't eat or drink anything except water during
+* Please don't eat during
   class. Repeated violations will result in a reduced attendance
   grade.
