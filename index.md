@@ -11,6 +11,7 @@
 * [Graded assignments](hw)
 * [Readings](readings.md)
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=55453)
+* [Attendance](attendance.md)
 <!-- * [WiD repos](wid-repos.md) -->
 * [Acknowledgment](acknowledgment.md)
 
