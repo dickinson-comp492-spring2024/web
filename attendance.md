@@ -24,7 +24,7 @@ Attendance is worth 5% of the final grade, computed as follows:
   illness. If you are unwell, notify the instructor in a timely
   fashion, giving as much advance notice as possible before the class.
   - The instructor may ask you to complete an additional assignment to
-    make up for an excused absence. [Added 9/20/2023]
+    make up for an excused absence.
 * Please do not leave the room during class, except for genuine
   emergencies. Repeated violations will result in a reduced attendance
   grade.
