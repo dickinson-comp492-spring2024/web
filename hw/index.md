@@ -84,3 +84,6 @@ log.
 * [Assignment RBP: Reflective blog post](RBP.docx)
 * [Assignment FP: Final Presentation](FP.docx)
 
+## Honors grading
+
+* [Assignments and grading for students pursuing honors](honors-grading.docx)
