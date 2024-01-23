@@ -5,7 +5,7 @@
 
 
 * [Syllabus](syllabus-1-23-2024.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 1/23/2023</font>
-* [Overview Schedule](schedule-1-23-2024.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 1/23/2023</font> 
+* [Overview Schedule](schedule-1-23-2024b.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 1/23/2023</font> 
 * [Detailed schedule](resources)
 * [Zoom details](https://lms.dickinson.edu/mod/page/view.php?id=1241534), for when class is online
 * [Graded assignments](hw)
@@ -20,4 +20,4 @@
 
 
 ----
-Last modified: Thu Jan 11 17:58:04 UTC 2024 by jmac.
+Last modified: Tue Jan 23 18:46:50 UTC 2024 by jmac.
