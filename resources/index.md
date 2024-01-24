@@ -109,13 +109,13 @@ Presentation order, courtesy of our friends at [random.org](https://www.random.o
 1. Oppia
 
 
-## Class 16, Friday 3/24/2023
+## Class 16, Friday 3/24/2024 
 
 capstone lab day
 
 
 
-## Class 15, Tuesday 3/21/2023
+## Class 15, Tuesday 3/21/2024 
 
 * Special discussion: Reflections on a Dickinson education
 
@@ -124,84 +124,83 @@ capstone lab day
 
 
 
-## Class 14, Friday 3/10/2023
+## Class 14, Friday 3/10/2024 
 
 capstone lab day
 
 
 
-## Class 13, Tuesday 2/28/2023
+## Class 13, Tuesday 2/28/2024 
 
 * Alumni videoconference
 
 
-## Class 12, Friday 3/3/2023
+## Class 12, Friday 3/3/2024 
 
 capstone lab day
 
 
 
-## Class 11, Tuesday 2/28/2023
+## Class 11, Tuesday 2/28/2024 
 
 * Discussion of spam, politics, and censorship
 
 
-## Class 10, Friday 2/24/2023
+## Class 10, Friday 2/24/2024 
 
 capstone lab day
 
-## Class 9, Tuesday 2/21/2023
+## Class 9, Tuesday 2/21/2024 
 
 
 * Discussion of social media recommendation algorithms. See the
   [Readings webpage](../readings.md) for required reading.
 
 
-## Class 8, Friday 2/16/2023
+## Class 8, Friday 2/16/2024 
 
 capstone lab day
 
 
-## Class 7, Tuesday 2/13/2023
+## Class 7, Tuesday 2/13/2024 
 
 * Discussion of the digital divide
 
-## Class 6, Friday 2/9/2023
+## Class 6, Friday 2/9/2024 
 
 capstone lab day
 
 
 
-## Class 5, Tuesday 2/6/2023
+## Class 5, Tuesday 2/6/2024 
 
 * Discussion of automation and globalization
 
 
-## Class 4, Friday 2/2/2023
+## Class 4, Friday 2/2/2024 
 
 capstone lab day
 
 
-## Class 3, Tuesday 1/30/2023
+## Class 3, Tuesday 1/30/2024 
 
 
 * Discussion of professional ethics. Resources:
   - Handout with overview of professional ethics: [professional-ethics-summary.pptx](class03/professional-ethics-summary.pptx)
   - The latest [ACM code of ethics](https://www.acm.org/code-of-ethics)
 
+-->
 
-## Class 2, Friday 1/26/2023
+## Class 2, Friday 1/26/2024
 
 * Discussion of ethical theories
 * handout: [ethical-theories-handout.pptx](class02/ethical-theories-handout.pptx)
 
--->
 
-## Class 1, Tuesday 1/23/2023
+
+## Class 1, Tuesday 1/23/2024
 
 * Overview of the course. 
 * capstone lab day
 
 
-----
-Last modified: Fri May 05 00:03:17 UTC 2023 by jmac.
