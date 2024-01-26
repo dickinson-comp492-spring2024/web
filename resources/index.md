@@ -195,6 +195,7 @@ capstone lab day
 
 * Discussion of ethical theories
 * handout: [ethical-theories-handout.pptx](class02/ethical-theories-handout.pptx)
+* New York Times article just published yesterday (for interest only, not required to read before class): [https://www.nytimes.com/2024/01/25/technology/cruise-crash-report-san-francisco.html](https://www.nytimes.com/2024/01/25/technology/cruise-crash-report-san-francisco.html)
 
 
 
