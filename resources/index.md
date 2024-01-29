@@ -180,7 +180,7 @@ capstone lab day
 ## Class 4, Friday 2/2/2024 
 
 capstone lab day
-
+-->
 
 ## Class 3, Tuesday 1/30/2024 
 
@@ -189,7 +189,7 @@ capstone lab day
   - Handout with overview of professional ethics: [professional-ethics-summary.pptx](class03/professional-ethics-summary.pptx)
   - The latest [ACM code of ethics](https://www.acm.org/code-of-ethics)
 
--->
+
 
 ## Class 2, Friday 1/26/2024
 
