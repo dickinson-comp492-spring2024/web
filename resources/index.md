@@ -174,8 +174,13 @@ capstone lab day
 
 ## Class 5, Tuesday 2/6/2024 
 
-* Discussion of automation and globalization
-  - discussion guide: [automation-and-globalization.pptx](class05/automation-and-globalization.pptx) 
+Discussion of automation and globalization
+* highlighted discussion questions:
+  - Ethan, responder Dzung
+  - Sophia, responder Trang 
+  - Giang, responder Hailie
+* discussion guide: [automation-and-globalization.pptx](class05/automation-and-globalization.pptx) 
+  
 
 
 ## Class 4, Friday 2/2/2024 
