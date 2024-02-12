@@ -161,16 +161,18 @@ capstone lab day
 
 capstone lab day
 
+-->
 
 ## Class 7, Tuesday 2/13/2024 
 
-* Discussion of the digital divide
+Discussion of the digital divide
+* discussion guide: [digital-divide.pptx](class07/digital-divide.pptx) 
 
 ## Class 6, Friday 2/9/2024 
 
 capstone lab day
 
--->
+
 
 ## Class 5, Tuesday 2/6/2024 
 
