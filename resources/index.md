@@ -141,27 +141,30 @@ capstone lab day
 
 
 
-## Class 11, Tuesday 2/28/2024 
+## Class 11, Tuesday 2/27/2024 
 
 * Discussion of spam, politics, and censorship
 
 
-## Class 10, Friday 2/24/2024 
+## Class 10, Friday 2/23/2024 
 
 capstone lab day
 
-## Class 9, Tuesday 2/21/2024 
+-->
+
+## Class 9, Tuesday 2/20/2024 
 
 
 * Discussion of social media recommendation algorithms. See the
   [Readings webpage](../readings.md) for required reading.
+* discussion guide: [recommendation-algorithms.pptx](class09/recommendation-algorithms.pptx) 
 
 
 ## Class 8, Friday 2/16/2024 
 
 capstone lab day
 
--->
+
 
 ## Class 7, Tuesday 2/13/2024 
 
