@@ -145,12 +145,12 @@ capstone lab day
 
 * Discussion of spam, politics, and censorship
 
+-->
 
 ## Class 10, Friday 2/23/2024 
 
 capstone lab day
 
--->
 
 ## Class 9, Tuesday 2/20/2024 
 
