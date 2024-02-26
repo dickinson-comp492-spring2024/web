@@ -139,13 +139,15 @@ capstone lab day
 
 capstone lab day
 
-
+-->
 
 ## Class 11, Tuesday 2/27/2024 
 
 * Discussion of spam, politics, and censorship
-
--->
+* discussion guide: [censorship-etc.pptx](class11/censorship-etc.pptx)
+* Freedom on the Net 2022, a report produced by Freedom House, which is a US nonprofit organization:
+  - [summary page](fotn2022-summary.pdf)
+  - [the whole report]()
 
 ## Class 10, Friday 2/23/2024 
 
