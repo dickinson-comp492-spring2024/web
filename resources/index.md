@@ -144,6 +144,7 @@ capstone lab day
 ## Class 11, Tuesday 2/27/2024 
 
 * Discussion of spam, politics, and censorship
+* There were oral arguments yesterday in the Supreme Court about social media company censorship: [Supreme Court skeptical of Texas, Florida regulation of social media moderation](https://www.scotusblog.com/2024/02/supreme-court-skeptical-of-texas-florida-regulation-of-social-media-moderation/), blog post by Amy Howe, 2/26/2024 on scotusblog.com  
 * Discussion guide: [censorship-etc.pptx](class11/censorship-etc.pptx)
 * Freedom on the Net 2022, a report produced by [Freedom House](https://freedomhouse.org), which is a US nonprofit organization:
   - [summary page](class11/fotn2022-summary.pdf)
