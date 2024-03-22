@@ -108,21 +108,19 @@ Presentation order, courtesy of our friends at [random.org](https://www.random.o
 1. Genetic algorithm research
 1. Oppia
 
-
-## Class 16, Friday 3/24/2024 
-
-capstone lab day
+-->
 
 
+## Class 16, Friday 3/22/2024 
 
-## Class 15, Tuesday 3/21/2024 
+* capstone lab day
+* please complete the [mid-semester
+  survey](https://forms.office.com/r/vzuxfzcaQ7).
+
+
+## Class 15, Tuesday 3/19/2024 
 
 * Special discussion: Reflections on a Dickinson education
-
-* Also, please complete the [mid-semester
-  survey](https://forms.office.com/r/5iuWEEBxZA).
-
-
 
 ## Class 14, Friday 3/10/2024 
 
@@ -130,16 +128,16 @@ capstone lab day
 
 
 
-## Class 13, Tuesday 2/28/2024 
+
+## Class 13, Tuesday 3/5/2024 
 
 * Alumni videoconference
 
 
-## Class 12, Friday 3/3/2024 
+## Class 12, Friday 3/1/2024 
 
 capstone lab day
 
--->
 
 ## Class 11, Tuesday 2/27/2024 
 
