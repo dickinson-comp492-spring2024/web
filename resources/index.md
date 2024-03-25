@@ -2,41 +2,12 @@
 
 <!--
 
-
-## Class 28, Tuesday 5/2/2023
-
-* Informal discussion: *Big ideas in computing*
-  - optional reading: The list of recent [Turing award
-    winners](https://en.wikipedia.org/wiki/Turing_Award) on
-    Wikipedia. In class we will focus on the era 2006-2022.
-
-
-## Class 27, Tuesday 5/2/2023
-
-Afternoon tea party at the instructor's house (attendance
-optional). Please see invitation sent by email for details. Feel free
-to arrive any time after 1:30 PM -- you are not required to be on time
-for this class!
-
-
-## Class 26, Friday 4/28/2023
-
-No class: Attendance at the Civic Engagement Symposium earlier in the
-week takes the place of this class meeting.
-
-
-## Class 25, Tuesday 4/25/2023
-
-* Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
-
-* Discussion of human computing. See the [Readings
-  webpage](../readings.md) for required reading/viewing.
-
-
-## Class 24, Friday 4/21/2023
-
-* Important announcement: you can add an optional fun twist to your senior seminar project. See the [Assignments](../hw/index.md) page for details.
-
+Eliminated??
+* Discussion of blockchain and cryptocurrency. See the [Readings
+  webpage](../readings.md) for required reading and activities. **Note
+  the instructions about no dicussion question -- link to an article
+  instead.**
+* No class -- instructor away at a conference.
 * Informal discussion: *Reflections on trusting trust*
   - optional reading: 
     *  [Reflections on trusting
@@ -54,29 +25,60 @@ week takes the place of this class meeting.
        e.g. Windows, MacOS, Linux?
     4. What would it take for you to actually trust a computer system?
 
-* Remaining time for capstone lab
 
-## Class 23, Tuesday 4/18/2023
- 
-* Informal discussion: ChatGPT and generative AI
-  - optional reading: [Issue
-    183](https://www.deeplearning.ai/the-batch/issue-183/) of The
-    Batch, by Andrew Ng and DeepLearning.AI, February 8, 2023.
-* Remaining time for capstone lab
 
- 
-## Class 22, Friday 4/14/2023
+## Class 28, Friday 5/3/2024
 
-No class -- instructor away at a conference.
+* Informal discussion: *Big ideas in computing*
+  - optional reading: The list of recent [Turing award
+    winners](https://en.wikipedia.org/wiki/Turing_Award) on
+    Wikipedia. In class we will focus on the era 2006-2022.
 
-## Class 21, Tuesday 4/11/2023
+
+## Class 27, Tuesday 4/30/2024
+
+Afternoon tea party at the instructor's house (attendance
+optional). Please see invitation sent by email for details. Feel free
+to arrive any time after 3:00 PM -- you are not required to be on time
+for this class!
+
+
+## Class 26, Friday 4/26/2024
+
+capstone lab day
+
+
+## Class 25, Tuesday 4/23/2024
+
+* Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
 
 * Informal discussion: portrayal of computation in movies, TV, and literature
   - No preparation required.
   - If you get a chance, try to think of a few examples for discussion.
+
+
+## Class 24, Friday 4/19/2024
+
+capstone lab day
+
+## Class 23, Tuesday 4/16/2024
+ 
+* Informal discussion: ChatGPT and generative AI
+  - optional reading: [Issue
+    183](https://www.deeplearning.ai/the-batch/issue-183/) of The
+    Batch, by Andrew Ng and DeepLearning.AI, February 8, 2024.
 * Remaining time for capstone lab
 
-## Class 20, Friday 4/7/2023
+ 
+## Class 22, Friday 4/12/2024
+
+capstone lab day
+
+## Class 21, Tuesday 4/9/2024
+
+* NQP8: gender and tech (based on 4/8 Amy Diehl event)
+
+## Class 20, Friday 4/5/2024
 
 Poster peer review + capstone lab day
 
@@ -86,15 +88,15 @@ Posters for review:
 * [Transformers](class20/transformers.pptx)
 
 
-## Class 19, Tuesday 4/4/2023
+## Class 19, Tuesday 4/2/2024
 
-* Discussion of blockchain and cryptocurrency. See the [Readings
-  webpage](../readings.md) for required reading and activities. **Note
-  the instructions about no dicussion question -- link to an article
-  instead.**
+* NQP7: Discussion of DuoLingo and human computing. See the [Readings
+  webpage](../readings.md) for required reading/viewing.
 
 
-## Class 18, Friday 3/31/2023
+
+
+## Class 18, Friday 3/29/2024
 
 Poster abstract peer review + capstone lab day
 
