@@ -100,7 +100,7 @@ Poster abstract peer review + capstone lab day
 
 -->
 
-## Class 17, Tuesday 3/28/2023
+## Class 17, Tuesday 3/26/2023
 
 Project checkpoint presentations, online via Zoom.
 
