@@ -98,17 +98,19 @@ Posters for review:
 
 Poster abstract peer review + capstone lab day
 
+-->
+
 ## Class 17, Tuesday 3/28/2023
 
-Project checkpoint presentations.
+Project checkpoint presentations, online via Zoom.
 
 Presentation order, courtesy of our friends at [random.org](https://www.random.org/lists/):
-1. Wagtail
-1. Transformers
-1. Genetic algorithm research
-1. Oppia
+1. Kafka
+1. Sugarlabs
+1. Huggingface
+1. Mermaid
+1. Giang
 
--->
 
 
 ## Class 16, Friday 3/22/2024 
