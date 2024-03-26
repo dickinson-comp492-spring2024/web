@@ -113,6 +113,10 @@ Presentation order, courtesy of our friends at [random.org](https://www.random.o
 1. Mermaid
 1. Giang
 
+PP1 word limits:
+* for open-source teams: 50 words
+* for honors students: 250 words
+
 
 
 ## Class 16, Friday 3/22/2024 
