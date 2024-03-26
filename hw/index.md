@@ -81,6 +81,7 @@ log.
 * [Assignment CP: Checkpoint presentation](CP.docx)
 * [Assignments NQP1-8: Discussion Notes, Questions, and Participation](NQP.docx)
 * [Assignments PP1, PP2, PP3: Poster presentation](PP.docx)
+  - for open-source students only: [civic engagement symposium details](https://www.dickinson.edu/info/20378/civic_engagement/4213/civic_engagement_symposium)
   - for honors students only: [research symposium details](research-symposium.docx)
 * [Assignment RBP: Reflective blog post](RBP.docx)
 * [Assignment FP: Final Presentation](FP.docx)
