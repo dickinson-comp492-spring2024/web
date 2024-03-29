@@ -94,13 +94,23 @@ Posters for review:
   webpage](../readings.md) for required reading/viewing.
 
 
-
+-->
 
 ## Class 18, Friday 3/29/2024
 
-Poster abstract peer review + capstone lab day
+* Continue with project checkpoint presentations, online via Zoom.
+* Poster abstract peer review:
+  - Kafka reviews Sugarlabs and Huggingface
+  - Sugarlabs reviews Huggingface and Mermaid
+  - Huggingface reviews Mermaid and Giang
+  - Mermaid reviews Giang and Kafka
+  - Giang reviews Kafka and Sugarlabs
+  - William reviews Dzung and Hailie 
+  - Dzung reviews Hailie and William
+  - Hailie reviews William and Dzung
+* Remaining time for capstone lab day
 
--->
+
 
 ## Class 17, Tuesday 3/26/2024
 
