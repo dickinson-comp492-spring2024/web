@@ -101,7 +101,7 @@ Posters for review:
 * Continue with project checkpoint presentations, online via Zoom.
 * Poster abstract peer review. 
   - make at least one positive comment and one suggestion for improvement
-  - abstracts available at [poster-abstracts.docx] (https://dickinson0-my.sharepoint.com/:w:/g/personal/jmac_dickinson_edu/EWdhXAfQa0xFuDsmx4ZFUbcBElioZMSnvnFe52AZbc7-eA?e=PyQvgm):
+  - abstracts available at [poster-abstracts.docx](https://dickinson0-my.sharepoint.com/:w:/g/personal/jmac_dickinson_edu/EWdhXAfQa0xFuDsmx4ZFUbcBElioZMSnvnFe52AZbc7-eA?e=PyQvgm):
   - Kafka reviews Sugarlabs and Huggingface
   - Sugarlabs reviews Huggingface and Mermaid
   - Huggingface reviews Mermaid and Giang
