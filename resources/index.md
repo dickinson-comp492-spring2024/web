@@ -99,7 +99,7 @@ Posters for review:
 ## Class 18, Friday 3/29/2024
 
 * Continue with project checkpoint presentations, online via Zoom.
-* Poster abstract peer review:
+* Poster abstract peer review (make at least one positive comment and one suggestion for improvement):
   - Kafka reviews Sugarlabs and Huggingface
   - Sugarlabs reviews Huggingface and Mermaid
   - Huggingface reviews Mermaid and Giang
