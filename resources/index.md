@@ -87,14 +87,32 @@ Posters for review:
 * [Genetic algorithm research](class20/ShakerCheckPosterDraft.pptx)
 * [Transformers](class20/transformers.pptx)
 
+-->
+
 
 ## Class 19, Tuesday 4/2/2024
 
+* CP presentation (Giang)
+* Survey on STEM Demographics for a Dickinson educational studies and
+  data analytics major, Amanda Tran:
+  [https://forms.office.com/r/uCB1HT2j3q](https://forms.office.com/r/uCB1HT2j3q)
 * NQP7: Discussion of DuoLingo and human computing. See the [Readings
   webpage](../readings.md) for required reading/viewing.
+  
+Summary of upcoming poster deadlines:
+* 4/5: PP1 final
+* 4/5: PP2 draft
+* 4/5: Submit registration form and abstract for civic engagement symposium
+* 4/8: Submit registration form and abstract for research symposium
+* 4/9: PP2 final
+* 4/9: Submit poster by email to civic engagement symposium
+* 4/11: Print center deadline for research symposium
+* 4/18: Print center deadline for civic engagement symposium
+* 4/18: Present poster at research symposium, 4:30-6:00pm (PP3)
+* 4/25: Present poster at civic engagement symposium, 12:00-1:30pm (PP3)
 
+Other deadlines: TR3 on 4/16, IR3 on 4/19
 
--->
 
 ## Class 18, Friday 3/29/2024
 
