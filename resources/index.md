@@ -93,7 +93,7 @@ Posters for review (links to posters will be added here when they are submitted)
 <!-- * [Giang](class20/) -->
 <!-- * [William](class20/) -->
 * [Dzung](class20/dzung.pdf)
-<!-- * [Hailie](class20/) -->
+* [Hailie](class20/hailie.pptx)
 
 Poster review assignments:
 * Kafka reviews Giang and Mermaid
