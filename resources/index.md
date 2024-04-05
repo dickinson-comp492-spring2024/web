@@ -90,7 +90,7 @@ Posters for review (links to posters will be added here when they are submitted)
 * [Sugarlabs](class20/sugarlabs.pdf)
 * [Huggingface](class20/huggingface.pdf)
 * [Mermaid](class20/mermaid.pptx)
-<!-- * [Giang](class20/) -->
+* [Giang](class20/giang.pdf)
 * [William](class20/william.pdf)
 * [Dzung](class20/dzung.pdf)
 * [Hailie](class20/hailie.pptx)
