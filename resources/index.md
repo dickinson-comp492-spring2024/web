@@ -83,7 +83,7 @@ capstone lab day
 
 ## Class 20, Friday 4/5/2024
 
-Poster peer review + capstone lab day
+Poster peer review + abstract/registration for civic engagement symposium + capstone lab day
 
 Posters for review:
 * None submitted yet. Links to posters will be added here when they are submitted.
@@ -114,6 +114,10 @@ Instructions for poster peer review:
 * Your team can meet and create the reviews together, submitting just
   one review per poster. Or individuals can submit their own reviews.
 * Communicate your reviews to the poster authors via email or Slack.
+
+Finally, open-source project teams must remember to register and
+submit their abstracts for the civic engagement symposium:
+[https://forms.office.com/r/gDZ2mHgFrZ](https://forms.office.com/r/gDZ2mHgFrZ)
 
 
 ## Class 19, Tuesday 4/2/2024
