@@ -111,6 +111,7 @@ Instructions for poster peer review:
 * Your team can meet and create the reviews together, submitting just
   one review per poster. Or individuals can submit their own reviews.
 * Communicate your reviews to the poster authors via email or Slack.
+* Make at least one positive comment and one suggestion for improvement.
 
 Finally, open-source project teams must remember to register and
 submit their abstracts for the civic engagement symposium:
