@@ -85,17 +85,14 @@ capstone lab day
 
 Poster peer review + abstract/registration for civic engagement symposium + capstone lab day
 
-Posters for review:
-* None submitted yet. Links to posters will be added here when they are submitted.
-
-
-<!-- * [Kafka](class20/) -->
-<!-- * [Sugarlabs](class20/) -->
+Posters for review (links to posters will be added here when they are submitted):
+* [Kafka](class20/kafka.pptx)
+* [Sugarlabs](class20/sugarlabs.pdf)
 <!-- * [Huggingface](class20/) -->
-<!-- * [Mermaid](class20/) -->
+* [Mermaid](class20/mermaid.pptx)
 <!-- * [Giang](class20/) -->
 <!-- * [William](class20/) -->
-<!-- * [Dzung](class20/) -->
+* [Dzung](class20/dzung.pdf)
 <!-- * [Hailie](class20/) -->
 
 Poster review assignments:
