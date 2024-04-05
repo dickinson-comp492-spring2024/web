@@ -78,16 +78,42 @@ capstone lab day
 
 * NQP8: gender and tech (based on 4/8 Amy Diehl event)
 
+
+-->
+
 ## Class 20, Friday 4/5/2024
 
 Poster peer review + capstone lab day
 
 Posters for review:
-* [Oppia](class20/Oppia_CESPosterDraft.pdf)
-* [Genetic algorithm research](class20/ShakerCheckPosterDraft.pptx)
-* [Transformers](class20/transformers.pptx)
+* None submitted yet. Links to posters will be added here when they are submitted.
 
--->
+
+<!-- * [Kafka](class20/) -->
+<!-- * [Sugarlabs](class20/) -->
+<!-- * [Huggingface](class20/) -->
+<!-- * [Mermaid](class20/) -->
+<!-- * [Giang](class20/) -->
+<!-- * [William](class20/) -->
+<!-- * [Dzung](class20/) -->
+<!-- * [Hailie](class20/) -->
+
+Poster review assignments:
+* Kafka reviews Giang and Mermaid
+* Sugarlabs reviews Kafka and Giang
+* Huggingface reviews Sugarlabs and Kafka
+* Mermaid reviews Huggingface and Sugarlabs
+* Giang reviews Mermaid and Huggingface
+* William reviews Dzung and Hailie 
+* Dzung reviews Hailie and William
+* Hailie reviews William and Dzung
+
+Instructions for poster peer review:
+* This is intended to be relatively lightweight. Please spend about
+  10-15 minutes on each of your two reviews.
+* Your team can meet and create the reviews together, submitting just
+  one review per poster. Or individuals can submit their own reviews.
+* Communicate your reviews to the poster authors via email or Slack.
 
 
 ## Class 19, Tuesday 4/2/2024
