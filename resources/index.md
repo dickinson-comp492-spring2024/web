@@ -72,14 +72,17 @@ capstone lab day
  
 ## Class 22, Friday 4/12/2024
 
-capstone lab day
-
-## Class 21, Tuesday 4/9/2024
-
 * NQP8: gender and tech (based on 4/8 Amy Diehl event)
 
 
 -->
+
+## Class 21, Tuesday 4/9/2024
+
+capstone lab day
+
+
+
 
 ## Class 20, Friday 4/5/2024
 
