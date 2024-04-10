@@ -69,13 +69,14 @@ capstone lab day
     Batch, by Andrew Ng and DeepLearning.AI, February 8, 2024.
 * Remaining time for capstone lab
 
+-->
  
 ## Class 22, Friday 4/12/2024
 
 * NQP8: gender and tech (based on 4/8 Amy Diehl event)
 
 
--->
+
 
 ## Class 21, Tuesday 4/9/2024
 
