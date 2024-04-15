@@ -61,15 +61,18 @@ capstone lab day
 
 capstone lab day
 
+
+-->
+
 ## Class 23, Tuesday 4/16/2024
  
-* Informal discussion: ChatGPT and generative AI
+* Informal discussion: Generative AI
   - optional reading: [Issue
     183](https://www.deeplearning.ai/the-batch/issue-183/) of The
     Batch, by Andrew Ng and DeepLearning.AI, February 8, 2024.
 * Remaining time for capstone lab
 
--->
+
  
 ## Class 22, Friday 4/12/2024
 
