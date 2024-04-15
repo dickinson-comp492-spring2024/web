@@ -69,7 +69,7 @@ capstone lab day
 * Informal discussion: Generative AI
   - optional reading: [Issue
     183](https://www.deeplearning.ai/the-batch/issue-183/) of The
-    Batch, by Andrew Ng and DeepLearning.AI, February 8, 2024.
+    Batch, by Andrew Ng and DeepLearning.AI, February 8, 2023.
 * Remaining time for capstone lab
 
 
