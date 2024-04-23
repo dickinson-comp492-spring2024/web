@@ -47,6 +47,7 @@ for this class!
 
 capstone lab day
 
+-->
 
 ## Class 25, Tuesday 4/23/2024
 
@@ -62,7 +63,7 @@ capstone lab day
 capstone lab day
 
 
--->
+
 
 ## Class 23, Tuesday 4/16/2024
  
