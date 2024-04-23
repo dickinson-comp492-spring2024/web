@@ -5,7 +5,7 @@
 
 
 * [Syllabus](syllabus-1-23-2024.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 1/23/2024</font>
-* [Overview Schedule](schedule-4-23-2024.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/23/2024 - note new due date for PP2</font> 
+* [Overview Schedule](schedule-4-23-2024.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 4/23/2024</font> 
 * [Detailed schedule](resources)
 * [Zoom details](https://lms.dickinson.edu/mod/page/view.php?id=1241534), for when class is online
 * [Graded assignments](hw)
