@@ -42,12 +42,13 @@ optional). Please see invitation sent by email for details. Feel free
 to arrive any time after 3:00 PM -- you are not required to be on time
 for this class!
 
+-->
 
 ## Class 26, Friday 4/26/2024
 
 capstone lab day
 
--->
+
 
 ## Class 25, Tuesday 4/23/2024
 
