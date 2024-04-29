@@ -34,15 +34,17 @@ Eliminated??
     winners](https://en.wikipedia.org/wiki/Turing_Award) on
     Wikipedia. In class we will focus on the era 2006-2022.
 
+-->
+
 
 ## Class 27, Tuesday 4/30/2024
 
-Afternoon tea party at the instructor's house (attendance
+* Afternoon tea party at the instructor's house (attendance
 optional). Please see invitation sent by email for details. Feel free
-to arrive any time after 3:00 PM -- you are not required to be on time
-for this class!
+to arrive any time after 3:30 PM. 
+* I've been asked to remind you to sign the graduation sustainability pledge if you are interested: [https://www.dickinson.edu/gpa](https://www.dickinson.edu/gpa) 
 
--->
+
 
 ## Class 26, Friday 4/26/2024
 
