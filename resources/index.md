@@ -33,7 +33,7 @@ Eliminated??
 * Informal discussion: *Big ideas in computing*
   - optional reading: The list of recent [Turing award
     winners](https://en.wikipedia.org/wiki/Turing_Award) on
-    Wikipedia. In class we will focus on the era 2006-2022.
+    Wikipedia. In class we will focus on the era 2006-2023.
 
 
 
