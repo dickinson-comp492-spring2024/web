@@ -25,6 +25,7 @@ Eliminated??
        e.g. Windows, MacOS, Linux?
     4. What would it take for you to actually trust a computer system?
 
+-->
 
 
 ## Class 28, Friday 5/3/2024
@@ -34,7 +35,6 @@ Eliminated??
     winners](https://en.wikipedia.org/wiki/Turing_Award) on
     Wikipedia. In class we will focus on the era 2006-2022.
 
--->
 
 
 ## Class 27, Tuesday 4/30/2024
