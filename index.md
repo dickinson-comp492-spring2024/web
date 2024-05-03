@@ -1,7 +1,7 @@
 # COMP492: Spring 2024 Senior Seminar in Computer Science
 
-<!-- ![Senior seminar tea party 2023](images/sensem-teaparty-2023-lowres.jpg) -->
-<!-- [high-resolution version](images/sensem-teaparty-2023.jpg) -->
+![Senior seminar tea party 2024](images/sensem-sp2024-lowres.jpg)
+[high-resolution version](images/sensem-sp2024-fullres.jpg)
 
 
 * [Syllabus](syllabus-1-23-2024.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 1/23/2024</font>
@@ -21,4 +21,4 @@
 
 
 ----
-Last modified: Tue Apr 23 14:58:02 UTC 2024 by jmac.
+Last modified: Fri May 03 18:05:27 UTC 2024 by jmac.
