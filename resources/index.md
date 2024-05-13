@@ -27,6 +27,10 @@ Eliminated??
 
 -->
 
+## Final presentations, Tuesday 5/14/2024, 9am
+
+The [program for final presentations](final/cs-capstone-presentations.docx) is available.
+
 
 ## Class 28, Friday 5/3/2024
 
